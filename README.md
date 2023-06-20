@@ -8,8 +8,15 @@ This is a job finder mobile app built using React Native
    ### Note: If showing Unmatched Route, refresh the page or select Go back or the back arrow
 
 ## Screenshots
+<p float="left">
+<img src="https://github.com/cin-ji/Job-Finder/blob/main/demo_images/About.jpg?raw=true" width=200>
+<img src="https://github.com/cin-ji/Job-Finder/blob/main/demo_images/Home.jpg?raw=true" width=200>
+<img src="https://github.com/cin-ji/Job-Finder/blob/main/demo_images/Opportunities.jpg?raw=true" width=200>
+<img src="https://github.com/cin-ji/Job-Finder/blob/main/demo_images/Qualifications.jpg?raw=true" width=200>
+<img src="https://github.com/cin-ji/Job-Finder/blob/main/demo_images/Responsibilities.jpg?raw=true" width=200>
+</p>
 
 ## Demo Video
-
+https://github.com/cin-ji/Job-Finder/raw/main/demo_images/VideoDemo.mp4
 
 
