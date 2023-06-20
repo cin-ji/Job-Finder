@@ -1,8 +1,0 @@
-search:
-5dc7cb5605mshcf878503257f074p131c89jsnc910a64b98ff
-
-useFetch (popular):
-451736519amshf53d74f8458bae2p1d6783jsne8a1727e5934
-
-useFetcher(nearby & search):
-5dc7cb5605mshcf878503257f074p131c89jsnc910a64b98ff
